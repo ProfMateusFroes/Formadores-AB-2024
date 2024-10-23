@@ -10,3 +10,12 @@ section{
     display: flex;
 
 }
+
+.chamadatexto{
+    margin: 5%;
+}
+
+header{ 
+    margin: 5%;
+    font-size: 10px;
+}
